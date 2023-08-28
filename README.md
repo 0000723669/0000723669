@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jonathan de Oliveira
 
 
-### 📚 Estudante no <a href="https://www.fiemg.com.br/senai/unidades/senai-sao-goncalo-do-rio-abaixo-cfp-jose-fernando-coura/" target="__blank">Senai São Gonçalo do Rio Abaixo</a>
+### 📚 Estudante no <a href="https://www.fiemg.com.br/senai/unidades/senai-sao-goncalo-do-rio-abaixo-cfp-jose-fernando-coura/" target="_blank">Senai São Gonçalo do Rio Abaixo</a>
 
 ### Tecnologias de Front-End Estudadas:
 * HTML
